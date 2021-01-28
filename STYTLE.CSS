@@ -1,0 +1,61 @@
+h1{
+    color:rgb(180, 27, 27) 
+}
+*{
+    border: solid;
+}
+
+h2{
+    color:black;
+}
+
+.header{
+    background-color:yellow;
+    display:flex;
+     flex-wrap: center;
+    justify-content: space-evenly;
+}
+    .grid{
+        background-color:blueviolet;
+    align-items:flex-starts
+}
+.pig{
+    background-color:blue;
+  
+}
+
+.dog{
+    background-color:red;
+  
+}
+
+.cat{
+    background-color:pink;
+  
+}
+.bear{
+    background-color:green;
+  
+}
+.rat{
+    background-color:orangered;
+  
+}
+.donkey{
+    background-color:indigo;
+  
+}
+
+body{
+    background-color: rgb(128,128,128);
+}
+
+
+
+
+
+
+
+
+
+
